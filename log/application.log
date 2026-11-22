@@ -1,0 +1,6 @@
+2026-11-21 10:10:01 INFO Application started
+2026-11-21 10:10:05 ERROR Database connection failed
+2026-11-21 10:10:06 WARNING Retrying database connection
+2026-11-21 10:10:10 ERROR Connection timeout
+2026-11-21 10:10:15 INFO Application restarted
+2026-11-21 10:10:20 CRITICAL Payment service unavailable
